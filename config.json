@@ -1,6 +1,6 @@
 {
   "botToken": "7559323357:AAH94P4aTU47SEy9GhK5XYt83IfBsml0OzE",
-  "mongoURI": "mongodb+srv://catbot:khusivabi@cluster0.quk1rri.mongodb.net/telebot?retryWrites=true&w=majority&appName=Cluster0",
+  "mongoURI": "",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
   "prefix": "/",
   "adminId": [
