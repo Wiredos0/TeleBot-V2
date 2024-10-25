@@ -4,8 +4,8 @@
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
   "prefix": "/",
   "adminId": [
-    "6658590630",
-    ],
+    "6658590630"
+  ],
   "owner": "6658590630",
   "onlyAdmin": true,
   "port": "3000",
